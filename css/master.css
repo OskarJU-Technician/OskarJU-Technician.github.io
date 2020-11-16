@@ -9,35 +9,41 @@ header{
 
 Height: 150px;
 width: 100%;
-Background-color: black;
+background-color: red;
+position: relative; 200px;
+
+
+
 
 }
 
 nav{
   height: 50px;
   width: 100%;
-  background-color: red;
+  font-size: 40px;
+
+
 
 }
 
 main{
   height: 450px;
   width: 100%;
-  background-color: purple;
+
 
 }
 
 aside{
   height: 450px;
   width: 200px;
-  background-color: orange;
+
 
 }
 
 footer{
   height: 100px;
   width: 100%;
-  background-color: red;
+
 
 }
 
@@ -58,5 +64,6 @@ a:active {
 
 #container{
   display:flex;
+
 
 }
