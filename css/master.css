@@ -9,10 +9,8 @@ header{
 
 Height: 150px;
 width: 100%;
-background-color: red;
-position: relative; 200px;
-
-
+text-align: center;
+font-size: 60px;
 
 
 }
@@ -29,7 +27,16 @@ nav{
 main{
   height: 450px;
   width: 100%;
+  display: flex;
 
+
+
+{}
+  #mainruta1
+
+
+
+  }
 
 }
 
