@@ -18,7 +18,7 @@ font-size: 60px;
 nav{
   height: 50px;
   width: 100%;
-  font-size: 40px;
+  font-size: 31px;
 
 
 
@@ -31,8 +31,20 @@ main{
 
 
 
-{}
-  #mainruta1
+
+
+
+
+  }
+
+#mainruta1{
+  position fixed: 200px;
+
+
+
+
+}
+
 
 
 
